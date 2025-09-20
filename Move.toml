@@ -1,0 +1,15 @@
+[package]
+name = "project1"
+version = "1.0.0"
+authors = []
+
+[addresses]
+bookswap="0x3dd2d75c24e0e518a901000d3f8309b0e35338d36efeb55d127801d62029179f"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
