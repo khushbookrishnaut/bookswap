@@ -76,7 +76,8 @@ Our vision is to revolutionize the global book exchange ecosystem by creating th
 
 ## Contract Details
 transaction id 0x82abbd958f09ce9ea864ba8c7533f933d9713ffa1fc1622807222cce96497748
-![alt text](<Screenshot (1).png>)
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/51c7ffef-50a5-418b-ba33-9a625e1d31ad" />
+
 
 ---
 
@@ -102,5 +103,6 @@ We welcome contributions from the community! Please read our contributing guidel
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
+
 
 **Built with ❤️ for the global reading community on Aptos blockchain**
